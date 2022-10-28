@@ -3,6 +3,22 @@ Add fully featured gangs to your server in minutes with SimpleGangs! Designed wi
 
 Gangs are groups which players can create and invite others to join. These groups allow players to see when their fellow members are online, chat privately, transfer money and much more. Gangs allow for a more immersive and collaborative gameplay experience when working with other players, for example during a raid, as features such as the HUD and disabled friendly fire can be made use of.
 
+## Download and Installation
+
+To download the addon, head to the releases section and select the latest version 'SimpleGangs 1.1' or click [here](https://github.com/RW128k/SimpleGangs/releases/tag/v1.1). Download and extract the zip archive 'SimpleGangs-1.1.zip' found on the page in the assets section.
+
+**The following extract is taken from *Section 1. Installation* of the Owner's Manual PDF included in the repository.**
+
+SimpleGangs Installs to your server much like any other addon. 
+
+Move the entire folder titled ‘simplegangs_1.1’ included with your download into the *garrysmod/addons/* directory on your server. On the next boot of your server, SimpleGangs will be active.
+
+![Installation](https://user-images.githubusercontent.com/45309105/131163082-0d9a194b-fb70-4de3-bd6f-f4db18725000.png)
+
+While the addon does not require additional installation steps or configuration, it is advised you review the default settings and make any changes you feel best suit your needs. A detailed explanation of this can be found in *Section 2. Configuration*.
+
+If you plan to use SimpleGangs in conjunction with a MySQL Database, you should first read the instructions under *Section 5. MySQL and the Database*.
+
 ## Features
 ### User-Friendly Interface
 
@@ -43,16 +59,3 @@ All of the features described above can be enabled or disabled at your discretio
 ## Showcase Video
 [![thumbnail](https://user-images.githubusercontent.com/45309105/131161449-2f56263b-efb7-477b-be98-67f211ec503e.png)](https://www.youtube.com/watch?v=CkNouwMIM0Y)
 [Click here or above to watch the Addon Showcase video on YouTube](https://www.youtube.com/watch?v=CkNouwMIM0Y)
-
-## Installation
-**The following extract is taken from *Section 1. Installation* of the Owner's Manual PDF included in the repository.**
-
-SimpleGangs Installs to your server much like any other addon. 
-
-Move the entire folder titled ‘simplegangs_1.1’ included with your download into the *garrysmod/addons/* directory on your server. On the next boot of your server, SimpleGangs will be active.
-
-![Installation](https://user-images.githubusercontent.com/45309105/131163082-0d9a194b-fb70-4de3-bd6f-f4db18725000.png)
-
-While the addon does not require additional installation steps or configuration, it is advised you review the default settings and make any changes you feel best suit your needs. A detailed explanation of this can be found in *Section 2. Configuration*.
-
-If you plan to use SimpleGangs in conjunction with a MySQL Database, you should first read the instructions under *Section 5. MySQL and the Database*.
